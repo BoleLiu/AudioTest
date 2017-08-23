@@ -1,0 +1,7 @@
+
+Qsquid:S1068"5Remove this unused "SAMPLES_PER_FRAME" private field.(èΩ¢Õ8Ò¬‹‚‡+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£ÖˆÕ8∫Ôƒê‡+
+^squid:UselessImportCheck"0Remove this unused import 'java.nio.ByteBuffer'.(ø¢◊±˙ˇˇˇˇ8Ê‚øê‡+
+Xsquid:UselessImportCheck"/Remove this unused import 'java.nio.ByteOrder'.(†∫ËÔ8Ê‚øê‡+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8Ê«Ã¬ﬁ+
+Dsquid:S1148"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ8ÉÅÕ¬ﬁ+
